@@ -10,7 +10,7 @@ This is a simple Twiiter clone app built using HTML, CSS and Javascript
 
 
 # Demo:
-![DemoGIF](videos/21.07.2020_11.13.39_REC.mp4)
+![DemoVideo](videos/21.07.2020_11.13.39_REC.mp4)
 
 [Live Preview](https://netflix-clone-daefe.web.app/)
 
