@@ -10,9 +10,9 @@ This is a simple Twiiter clone app built using HTML, CSS and Javascript
 
 
 # Demo:
-![DemoVideo](videos/21.07.2020_11.13.39_REC.mp4)
+[![Watch the video](https://asyraf-labs.github.io/Twitter-clone/)]
 
-[Live Preview](https://netflix-clone-daefe.web.app/)
+[Live Preview](https://asyraf-labs.github.io/Twitter-clone/)
 
 # How to set up the project on your local machine:
 
