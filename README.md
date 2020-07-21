@@ -10,7 +10,7 @@ This is a simple Twiiter clone app built using HTML, CSS and Javascript
 
 
 # Demo:
-[![Watch the video](https://asyraf-labs.github.io/Twitter-clone/)]
+[![Watch the video](https://asyraf-labs.github.io/Twitter-clone/)](https://asyraf-labs.github.io/Twitter-clone/)
 
 [Live Preview](https://asyraf-labs.github.io/Twitter-clone/)
 
